@@ -3,17 +3,17 @@
 <h3 align="center">A newbie Data Analyst from VietNam 🇻🇳</h3>
 <img align="right" alt="Coding" width="400" src = "https://miro.medium.com/v2/resize:fit:1400/1*Owa2rsDG6Rwv1IM_RdsL3A.gif">
 
- - 👨🏽‍💻 I’m currently **a computer science student**
+- 👨🏽‍💻 I’m currently **a computer science student**
 
- - 📊 I’m currently learning **Java and Data Visualization**
+- 📊 I’m currently learning **Java and Data Visualization**
 
- - 👨🏼‍🎓 I’m a second year student **of Manitoba University**
+- 👨🏼‍🎓 I’m a sophomore student **of Manitoba University**
 
- - 🤝 I’m looking for help with **Python (Seaborn, mathplotlib)**
+- 🤝 I’m looking for help with **Python (Seaborn, mathplotlib)**
 
- - 📫 How to reach me **thanhdat.nau@gmail.com**
+- 📫 How to reach me **thanhdat.nau@gmail.com**
 
- - ⚡ Fun fact **Music and Piano**
+- ⚡ Fun fact **Music and Piano Guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
