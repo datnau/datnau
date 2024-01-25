@@ -3,6 +3,8 @@
 <h3 align="center">A newbie Data Analyst from VietNam</h3>
 <img align="right" alt="Coding" width="400" src=" https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif">
 
+
+
  - 👨🏽‍💻 I’m currently **a computer science student**
 
  - 📊 I’m currently learning **Java and Data Visualization**
