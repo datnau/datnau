@@ -1,8 +1,7 @@
-[![MasterHead](https://brownd11112004.blogspot.com/2024/01/blog-post.html)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Brown</h1>
 <h3 align="center">A newbie Data Analyst from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif">
-
 - 🔭 I’m currently **a computer science student**
 
 - 🌱 I’m currently learning **Java and Data Visualization**
@@ -28,5 +27,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-&" alt="datnau" /></p>
-
