@@ -2,17 +2,6 @@
 <h1 align="center">Hi 👋, I'm Brown</h1>
 <h3 align="center">A newbie Data Analyst from VietNam 🇻🇳</h3>
 <img align="right" alt="Coding" width="400" src = "https://miro.medium.com/v2/resize:fit:1400/1*Owa2rsDG6Rwv1IM_RdsL3A.gif">
-
-
-
-
-
-
-
-
-
-
-
  - 👨🏽‍💻 I’m currently **a computer science student**
 
  - 📊 I’m currently learning **Java and Data Visualization**
