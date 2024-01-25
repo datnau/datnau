@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/datnau/datnau/blob/main/Purple%20Illustrative%20Pixel%20Art%20Game%20Presentation.png)
+![MasterHead](https://github.com/datnau/datnau/blob/main/Purple%20Illustrative%20Pixel%20Art%20Game%20Presentation.png)
 <h1 align="center">Hi 👋, I'm Brown</h1>
 <h3 align="center">A newbie Data Analyst from VietNam 🇻🇳</h3>
 
