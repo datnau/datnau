@@ -3,12 +3,6 @@
 <h3 align="center">A newbie Data Analyst from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif">
 
-<h1 align="center">Hi 👋, I'm Brown</h1>
-<h3 align="center">A newbie Data Analyst from VietNam</h3>
-
-<h1 align="center">Hi 👋, I'm Brown</h1>
-<h3 align="center">A newbie Data Analyst from VietNam</h3>
-
 - 🔭 I’m currently **a computer science student**
 
 - 🌱 I’m currently learning **Java and Data Visualization**
