@@ -3,11 +3,11 @@
 <h3 align="center">A newbie Data Analyst from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/904433/screenshots/3304535/animation.gif">
 
- - 🔭 I’m currently **a computer science student**
+- 👨🏽‍💻 I’m currently **a computer science student**
 
-- 🌱 I’m currently learning **Java and Data Visualization**
+- 📊 I’m currently learning **Java and Data Visualization**
 
-- 👯 I’m a second year student **of Manitoba University**
+- 👨🏼‍🎓 I’m a second year student **of Manitoba University**
 
 - 🤝 I’m looking for help with **Python (Seaborn, mathplotlib)**
 
