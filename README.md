@@ -1,4 +1,4 @@
-[![MasterHead](file:///C:/Users/ADMIN/Downloads/Purple%20Illustrative%20Pixel%20Art%20Game%20Presentation.pdf)]
+[![MasterHead](https://brownd11112004.blogspot.com/2024/01/blog-post.html)]
 <h1 align="center">Hi 👋, I'm Brown</h1>
 <h3 align="center">A newbie Data Analyst from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif">
